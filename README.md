@@ -1,5 +1,7 @@
 # Meu Terceiro Projeto
 
+site: https://daniel-devs-potencial.github.io/Meu-terceiro-projeto/
+
 Este projeto é uma landing page responsiva, construída com **HTML** e **CSS**, focada na apresentação visual profissional de um serviço fictício de compras via mobile: **Easy Shopping Via Mobile**.
 
 ## 🚀 Sobre
